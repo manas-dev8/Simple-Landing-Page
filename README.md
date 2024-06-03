@@ -1,1 +1,1 @@
-# Simple-Landing-Page
+# Simple-Landing-Page (MINI PROJECT)
